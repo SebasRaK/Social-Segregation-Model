@@ -1,0 +1,4 @@
+Per	Ri	Me	Po
+Ri	5	1.5	-5
+Me	6	3	-5
+Po	3	4	-5

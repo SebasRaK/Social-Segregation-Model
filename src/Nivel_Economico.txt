@@ -1,0 +1,4 @@
+País		Nivel Económico
+Rico		9.0		1.5
+Medio		5.0		1.5
+Pobre		1.0		1.0

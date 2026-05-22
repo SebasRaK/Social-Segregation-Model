@@ -1,0 +1,4 @@
+País		Nivel Educación
+Rico		8.0		1.5
+Medio		5.0		1.6
+Pobre		1.0		1.4
